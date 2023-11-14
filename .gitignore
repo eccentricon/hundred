@@ -1,0 +1,11 @@
+# Folder view configuration files
+*.dSYM/
+.DS_Store
+Desktop.ini
+*.pdf
+*.zip
+
+# Compiled binaries
+*.out
+bin/
+
